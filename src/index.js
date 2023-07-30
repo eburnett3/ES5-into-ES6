@@ -8,7 +8,7 @@ import "./styles.css";
 syntax used in the function definitions over in the
 helpers.js module. You'll know that you are done
 when you have all 5 functions successfully returning
-the expected data type!
+the expected data type! Testing React syntax
 */
 
 const App = () => (
